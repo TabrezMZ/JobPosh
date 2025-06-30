@@ -58,7 +58,7 @@ Install the following locally:
 ### 🔹 1. Clone & Install
 
 ```bash
-git clone <your-repo-url> or UnZIP 
+git clone https://github.com/TabrezMZ/JobPosh.git 
 cd artha-job-board
 🔹 2. Setup Backend
 
